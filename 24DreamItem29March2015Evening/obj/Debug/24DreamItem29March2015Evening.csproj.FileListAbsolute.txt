@@ -1,0 +1,6 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\24DreamItem29March2015Evening\bin\Debug\24DreamItem29March2015Evening.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\24DreamItem29March2015Evening\bin\Debug\24DreamItem29March2015Evening.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\24DreamItem29March2015Evening\bin\Debug\24DreamItem29March2015Evening.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\24DreamItem29March2015Evening\obj\Debug\24DreamItem29March2015Evening.csprojResolveAssemblyReference.cache
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\24DreamItem29March2015Evening\obj\Debug\24DreamItem29March2015Evening.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\24DreamItem29March2015Evening\obj\Debug\24DreamItem29March2015Evening.pdb
