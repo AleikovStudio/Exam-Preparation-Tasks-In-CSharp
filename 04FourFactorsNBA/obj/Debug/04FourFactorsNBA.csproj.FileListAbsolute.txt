@@ -1,0 +1,6 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\04FourFactorsNBA\bin\Debug\04FourFactorsNBA.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\04FourFactorsNBA\bin\Debug\04FourFactorsNBA.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\04FourFactorsNBA\bin\Debug\04FourFactorsNBA.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\04FourFactorsNBA\obj\Debug\04FourFactorsNBA.csprojResolveAssemblyReference.cache
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\04FourFactorsNBA\obj\Debug\04FourFactorsNBA.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\04FourFactorsNBA\obj\Debug\04FourFactorsNBA.pdb

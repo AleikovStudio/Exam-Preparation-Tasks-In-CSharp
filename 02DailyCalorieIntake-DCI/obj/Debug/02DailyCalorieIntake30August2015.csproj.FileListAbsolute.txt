@@ -1,0 +1,6 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\02DailyCalorieIntake-DCI\bin\Debug\02DailyCalorieIntake-DCI.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\02DailyCalorieIntake-DCI\bin\Debug\02DailyCalorieIntake-DCI.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\02DailyCalorieIntake-DCI\bin\Debug\02DailyCalorieIntake-DCI.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\02DailyCalorieIntake-DCI\obj\Debug\02DailyCalorieIntake30August2015.csprojResolveAssemblyReference.cache
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\02DailyCalorieIntake-DCI\obj\Debug\02DailyCalorieIntake-DCI.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\02DailyCalorieIntake-DCI\obj\Debug\02DailyCalorieIntake-DCI.pdb

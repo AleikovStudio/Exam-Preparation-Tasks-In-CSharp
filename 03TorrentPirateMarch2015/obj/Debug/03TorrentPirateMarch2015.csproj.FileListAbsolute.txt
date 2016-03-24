@@ -1,0 +1,6 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\03TorrentPirateMarch2015\bin\Debug\03TorrentPirateMarch2015.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\03TorrentPirateMarch2015\bin\Debug\03TorrentPirateMarch2015.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\03TorrentPirateMarch2015\bin\Debug\03TorrentPirateMarch2015.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\03TorrentPirateMarch2015\obj\Debug\03TorrentPirateMarch2015.csprojResolveAssemblyReference.cache
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\03TorrentPirateMarch2015\obj\Debug\03TorrentPirateMarch2015.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\03TorrentPirateMarch2015\obj\Debug\03TorrentPirateMarch2015.pdb

@@ -1,0 +1,9 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\08Dumbbell29March2015\bin\Debug\08Dumbbell29March2015.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\08Dumbbell29March2015\bin\Debug\08Dumbbell29March2015.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\08Dumbbell29March2015\bin\Debug\08Dumbbell29March2015.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\08Dumbbell29March2015\obj\Debug\08Dumbbell29March2015.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\08Dumbbell29March2015\obj\Debug\08Dumbbell29March2015.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\08Dumbbell29March2015\obj\Debug\08Dumbbell29March2015.csprojResolveAssemblyReference.cache
+D:\VISUAL-STUDIO\ZADACHIFOREXAM\08Dumbbell29March2015\bin\Debug\08Dumbbell29March2015.exe.config
+D:\VISUAL-STUDIO\ZADACHIFOREXAM\08Dumbbell29March2015\obj\Debug\08Dumbbell29March2015.exe
+D:\VISUAL-STUDIO\ZADACHIFOREXAM\08Dumbbell29March2015\obj\Debug\08Dumbbell29March2015.pdb

@@ -1,0 +1,12 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\05DetectiveBoevJuly2015\bin\Debug\05DetectiveBoevJuly2015.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\05DetectiveBoevJuly2015\bin\Debug\05DetectiveBoevJuly2015.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\05DetectiveBoevJuly2015\bin\Debug\05DetectiveBoevJuly2015.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\05DetectiveBoevJuly2015\obj\Debug\05DetectiveBoevJuly2015.csprojResolveAssemblyReference.cache
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\05DetectiveBoevJuly2015\obj\Debug\05DetectiveBoevJuly2015.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\05DetectiveBoevJuly2015\obj\Debug\05DetectiveBoevJuly2015.pdb
+D:\VISUAL-STUDIO\ZADACHIFOREXAM\05DetectiveBoevJuly2015\bin\Debug\05DetectiveBoevJuly2015.exe.config
+D:\VISUAL-STUDIO\ZADACHIFOREXAM\05DetectiveBoevJuly2015\obj\Debug\05DetectiveBoevJuly2015.exe
+D:\VISUAL-STUDIO\ZADACHIFOREXAM\05DetectiveBoevJuly2015\obj\Debug\05DetectiveBoevJuly2015.pdb
+D:\VISUAL-STUDIO\ZADACHIFOREXAM\05DetectiveBoevJuly2015\bin\Debug\05DetectiveBoevJuly2015.exe
+D:\VISUAL-STUDIO\ZADACHIFOREXAM\05DetectiveBoevJuly2015\bin\Debug\05DetectiveBoevJuly2015.pdb
+D:\VISUAL-STUDIO\ZADACHIFOREXAM\05DetectiveBoevJuly2015\obj\Debug\05DetectiveBoevJuly2015.csprojResolveAssemblyReference.cache
