@@ -1,0 +1,6 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\20Volleyball10April2014Evening\bin\Debug\20Volleyball10April2014Evening.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\20Volleyball10April2014Evening\bin\Debug\20Volleyball10April2014Evening.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\20Volleyball10April2014Evening\bin\Debug\20Volleyball10April2014Evening.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\20Volleyball10April2014Evening\obj\Debug\20Volleyball10April2014Evening.csprojResolveAssemblyReference.cache
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\20Volleyball10April2014Evening\obj\Debug\20Volleyball10April2014Evening.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\20Volleyball10April2014Evening\obj\Debug\20Volleyball10April2014Evening.pdb

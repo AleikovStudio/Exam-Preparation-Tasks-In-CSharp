@@ -1,0 +1,6 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\13SummertimeHalfBeer12July2015\bin\Debug\13SummertimeHalfBeer12July2015.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\13SummertimeHalfBeer12July2015\bin\Debug\13SummertimeHalfBeer12July2015.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\13SummertimeHalfBeer12July2015\bin\Debug\13SummertimeHalfBeer12July2015.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\13SummertimeHalfBeer12July2015\obj\Debug\13SummertimeHalfBeer12July2015.csprojResolveAssemblyReference.cache
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\13SummertimeHalfBeer12July2015\obj\Debug\13SummertimeHalfBeer12July2015.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\ZADACHIFOREXAM\13SummertimeHalfBeer12July2015\obj\Debug\13SummertimeHalfBeer12July2015.pdb
